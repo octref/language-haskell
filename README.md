@@ -1,5 +1,7 @@
+
 # Haskell Language support
 
+**Adapated from to inclue `syntaxes/haskell.json` in source, so I can use Haskell in [Shiki](https://shiki.matsu.io).**
 
 Support for the Haskell programming language in Visual Studio Code.
 

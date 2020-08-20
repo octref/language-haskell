@@ -1,6 +1,5 @@
 out
 node_modules
-syntaxes/haskell.json
 npm-debug.log
 syntaxes/cabal.json
 syntaxes/literateHaskell.json
